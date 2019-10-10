@@ -3,3 +3,4 @@ if(hungry=="yes"):
 
 else:
     print("do your homework");
+    print("after that go to sleep");
